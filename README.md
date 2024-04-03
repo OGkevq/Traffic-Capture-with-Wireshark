@@ -6,7 +6,6 @@ Understand the basics of using a packet sniffing/capture tool and examine a pack
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Understanding and configuring IPtables
 - Installing and Configuring Wireshark
@@ -15,11 +14,9 @@ Understand the basics of using a packet sniffing/capture tool and examine a pack
 - Networking Troubleshooting and Analysis
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Ip tabls for Wireshark Configuration
+- Network analysis tool (Wireshark) for capturing and examining network traffic
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
