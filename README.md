@@ -19,11 +19,10 @@ Understand the basics of using a packet sniffing/capture tool and examine a pack
 - Ip tables for Wireshark Configuration
 - Network analysis tool (Wireshark) for capturing and examining network traffic
 
-## Steps
+## Instructions and deliverables
 
 A PDF with all instructions for the lab is attached here -->[CECS 303 - Lab 4 - Packet Sniffer.pdf](https://github.com/OGkevq/Traffic-Capture-with-Wireshark/files/14859804/CECS.303.-.Lab.4.-.Packet.Sniffer.pdf)
 
+A Word doc with screenshots and deliverables for the lab is attached here -->[Lab 4.docx](https://github.com/OGkevq/Traffic-Capture-with-Wireshark/files/14860347/Lab.4.docx)
 
 
-
-*Ref 1: Network Diagram*
